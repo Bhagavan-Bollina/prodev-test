@@ -2,8 +2,8 @@
 
 echo "Configuring AWS CLI..."
 
-//AWS_ACCOUNT_ID = AKIAS5U6WLGLTAUHL7WC
-//AWS_SECRET_ACCESS_KEY = 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
+# AWS_ACCOUNT_ID = AKIAS5U6WLGLTAUHL7WC
+# AWS_SECRET_ACCESS_KEY = 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
 
 # AWS Credentials
 read -p "AWS Account ID ($( [  ! -z $AWS_ACCOUNT_ID ] && echo *********${AWS_ACCOUNT_ID:(-3)})): " aws_account_id
