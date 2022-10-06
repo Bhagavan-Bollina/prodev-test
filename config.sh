@@ -2,8 +2,8 @@
 
 echo "Configuring AWS CLI..."
 
-# AWS_ACCOUNT_ID = AKIAS5U6WLGL2APIZRXN
-# AWS_SECRET_ACCESS_KEY = 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
+# AWS_ACCOUNT_ID = 
+# AWS_SECRET_ACCESS_KEY = 
 # $host = 
 
 # AWS Credentials
